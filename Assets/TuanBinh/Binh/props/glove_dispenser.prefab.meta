@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15df2397816833e44aad1fb924e05e1a
+timeCreated: 1466040143
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/glove_dispenser.prefab
+  uploadId: 448714

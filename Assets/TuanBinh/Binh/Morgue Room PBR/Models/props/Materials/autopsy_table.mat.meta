@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d347059f6cd02443b05ffe59a2b0813
+timeCreated: 1464405071
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/autopsy_table.mat
+  uploadId: 448714

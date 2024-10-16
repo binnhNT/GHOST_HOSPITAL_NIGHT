@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a35d781860160045bccc21bd63bcbbf
+timeCreated: 1466639617
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/shelf_mat.mat
+  uploadId: 448714

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7315c0d343d93184da9801fc8d735ed1
+timeCreated: 1465956798
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/walls/wall_piece02.prefab
+  uploadId: 448714

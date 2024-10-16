@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 122429e1941b6d945bd6573b65c2e0c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/lambert1.mat
+  uploadId: 448714

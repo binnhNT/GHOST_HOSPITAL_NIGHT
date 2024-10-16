@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f81b466c999417488f8e2510228437b
+timeCreated: 1464582136
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/metal_sink.mat
+  uploadId: 448714

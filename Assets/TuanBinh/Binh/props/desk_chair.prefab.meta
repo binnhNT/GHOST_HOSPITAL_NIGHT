@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f837a3a2f73bed47ad6d0ee054da4a8
+timeCreated: 1466041565
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/desk_chair.prefab
+  uploadId: 448714

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad6c62e74932a5a4c9302770c24804bb
+timeCreated: 1466048011
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/cabinet_mat.mat
+  uploadId: 448714

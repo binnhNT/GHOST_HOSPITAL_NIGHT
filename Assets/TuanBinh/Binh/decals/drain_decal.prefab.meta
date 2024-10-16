@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6434e200f87490b43980902c8c4cd36f
+timeCreated: 1466392576
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/decals/drain_decal.prefab
+  uploadId: 448714

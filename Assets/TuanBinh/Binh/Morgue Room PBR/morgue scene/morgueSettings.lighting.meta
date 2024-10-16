@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 973c8485b268eaf4aa8041cc30c69429
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/morgue scene/morgueSettings.lighting
+  uploadId: 448714

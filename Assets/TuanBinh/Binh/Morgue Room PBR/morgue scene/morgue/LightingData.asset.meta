@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9e57522c25d7e743a243a38f79220ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/morgue scene/morgue/LightingData.asset
+  uploadId: 448714

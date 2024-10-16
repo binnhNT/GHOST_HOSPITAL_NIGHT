@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35e43375dec253a46950ccd899b888e4
+timeCreated: 1466821793
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/pencil_holder.prefab
+  uploadId: 448714

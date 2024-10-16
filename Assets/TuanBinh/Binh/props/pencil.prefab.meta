@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 439c36aed86b01e419555dc54108e4be
+timeCreated: 1466821800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/pencil.prefab
+  uploadId: 448714

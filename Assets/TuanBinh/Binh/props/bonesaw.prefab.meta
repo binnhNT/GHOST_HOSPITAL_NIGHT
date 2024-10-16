@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b95918a3f264d69469ca27fc640dcbbe
+timeCreated: 1466634393
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/bonesaw.prefab
+  uploadId: 448714

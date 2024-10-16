@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b854ff340b20cf4e890cbe2f51b9bb1
+timeCreated: 1466033908
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/ceiling/floor_ceiling_8x8.prefab
+  uploadId: 448714

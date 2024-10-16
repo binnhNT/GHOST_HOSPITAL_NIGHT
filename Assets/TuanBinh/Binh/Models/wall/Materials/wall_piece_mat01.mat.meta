@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 236391175a29fb347ac0ee4434170829
+timeCreated: 1463277716
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/wall/Materials/wall_piece_mat01.mat
+  uploadId: 448714

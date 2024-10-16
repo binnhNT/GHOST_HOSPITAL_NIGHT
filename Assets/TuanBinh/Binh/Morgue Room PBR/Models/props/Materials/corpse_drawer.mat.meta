@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41071a7bfc50ce6429a42c470de84496
+timeCreated: 1464289803
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/corpse_drawer.mat
+  uploadId: 448714

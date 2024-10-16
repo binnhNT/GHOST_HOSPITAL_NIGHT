@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 780e628f08f83be4494b129e1a4dc3b5
+timeCreated: 1466640178
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/glass_jar.prefab
+  uploadId: 448714

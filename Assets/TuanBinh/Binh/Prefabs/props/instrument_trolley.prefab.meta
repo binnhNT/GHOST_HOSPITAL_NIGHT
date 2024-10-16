@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0292062adaf1004f80a181f52102060
+timeCreated: 1466040076
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/instrument_trolley.prefab
+  uploadId: 448714

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2481a816322425249a2a070466488586
+timeCreated: 1466035187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/autopsy_table.prefab
+  uploadId: 448714

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ec4e2ee1d0775046bda1a2c218237af
+timeCreated: 1466040020
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/organ_scale.prefab
+  uploadId: 448714

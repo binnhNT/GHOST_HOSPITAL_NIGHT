@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f436d6ae82eb404f987413e92d714bb
+timeCreated: 1466041657
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/steel_worktop.prefab
+  uploadId: 448714

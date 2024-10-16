@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d68a2aad9f40c14ba3fd5dafb41a1d2
+timeCreated: 1466634408
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/scissors.prefab
+  uploadId: 448714

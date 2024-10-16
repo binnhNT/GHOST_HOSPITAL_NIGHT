@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bcdbf7a3eab7a7f4f94b6d74cb6c2533
+timeCreated: 1465090048
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/floor/Materials/ceiling_01_mat.mat
+  uploadId: 448714

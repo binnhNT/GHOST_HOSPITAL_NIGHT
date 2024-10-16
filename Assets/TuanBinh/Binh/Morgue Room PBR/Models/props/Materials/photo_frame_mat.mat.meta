@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8277c6b083f0cb949ad6d85b80813a38
+timeCreated: 1465098265
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/photo_frame_mat.mat
+  uploadId: 448714

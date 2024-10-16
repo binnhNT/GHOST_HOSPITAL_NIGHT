@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d300b9f5f145e634381a09d091ac28d0
+timeCreated: 1466821528
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/note_book_mat.mat
+  uploadId: 448714

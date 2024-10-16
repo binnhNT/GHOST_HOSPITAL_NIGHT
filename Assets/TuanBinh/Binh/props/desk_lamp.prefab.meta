@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d74dc2d0d043224ebc287bf0b5c5f16
+timeCreated: 1466041628
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/desk_lamp.prefab
+  uploadId: 448714

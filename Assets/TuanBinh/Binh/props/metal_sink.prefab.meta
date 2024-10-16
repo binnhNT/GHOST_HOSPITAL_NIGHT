@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a5033ee45dd36045a70294c30b0f71c
+timeCreated: 1466040053
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/metal_sink.prefab
+  uploadId: 448714

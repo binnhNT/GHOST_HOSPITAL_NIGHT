@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5a83df8c359dfc429f6e4686a0d94ea
+timeCreated: 1465087176
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/floor/Materials/floor_01_mat.mat
+  uploadId: 448714

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80a1bdc20d3b89f4d88e110fb5f58ab9
+timeCreated: 1466634403
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/scalp.prefab
+  uploadId: 448714

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7ba49032ee3ce949bccfaedbf5ea24c
+timeCreated: 1465104558
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/wall/Materials/door_glass.mat
+  uploadId: 448714

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11a8adb5985c90549948880db33e0c04
+timeCreated: 1466755067
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/table_trash_mat.mat
+  uploadId: 448714

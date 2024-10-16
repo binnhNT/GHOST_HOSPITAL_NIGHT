@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b327ba92af6d506458c0efad2dc300e3
+timeCreated: 1466040122
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/light_switch.prefab
+  uploadId: 448714

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf75dc91e88710243a81f3a5fc353fb1
+timeCreated: 1466048432
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/cabinet.prefab
+  uploadId: 448714

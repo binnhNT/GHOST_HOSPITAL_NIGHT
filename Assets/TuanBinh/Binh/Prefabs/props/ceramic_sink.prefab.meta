@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 105b6b06f9002f34ebd610d5f36451d0
+timeCreated: 1466036935
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/ceramic_sink.prefab
+  uploadId: 448714

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 227ad3ffe33b2a24aa79e40775157973
+timeCreated: 1466811889
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/trash_can.prefab
+  uploadId: 448714

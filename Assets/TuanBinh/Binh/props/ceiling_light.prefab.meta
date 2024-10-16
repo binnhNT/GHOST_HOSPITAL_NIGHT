@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5bf4ee753a7f18740b985830b4b6fc8f
+timeCreated: 1466035617
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/ceiling_light.prefab
+  uploadId: 448714

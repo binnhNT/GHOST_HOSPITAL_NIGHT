@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71845e38bc58ce145a8929146afb7f7d
+timeCreated: 1466041606
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Prefabs/props/writing_board.prefab
+  uploadId: 448714

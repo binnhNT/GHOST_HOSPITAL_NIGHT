@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 326b4636797cee1499455f2126405097
+timeCreated: 1465095083
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65817
+  packageName: Morgue Room PBR
+  packageVersion: 1.0
+  assetPath: Assets/Morgue Room PBR/Models/props/Materials/desk_lamp_mat.mat
+  uploadId: 448714
