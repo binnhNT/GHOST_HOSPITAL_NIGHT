@@ -78,6 +78,14 @@ public class SafeController : NetworkBehaviour
         {
             ulong clientId = other.GetComponent<NetworkObject>().OwnerClientId;
             SetPickupButtonVisibilityServerRpc(clientId, true);
+            if (PassPanel.activeSelf)
+            {
+                PassPanel.SetActive(false);
+            }
+
+          
+            Cursor.lockState = CursorLockMode.Locked;
+            Cursor.visible = false;
         }
     }
 
