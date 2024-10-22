@@ -34,25 +34,29 @@ public class LetterInteraction : MonoBehaviour
 
     void Update()
     {
-        if (isNearLetter && Input.GetKeyDown(KeyCode.E) && !hasReadLetter) 
+        if (isNearLetter && Input.GetKeyDown(KeyCode.E) && !hasReadLetter)
         {
-            letterUI.SetActive(!letterUI.activeSelf); 
+            letterUI.SetActive(!letterUI.activeSelf);
 
             if (letterUI.activeSelf)
             {
-                interactionText.gameObject.SetActive(false); 
+                interactionText.gameObject.SetActive(false);
                 isReadingLetter = true;
+
+                // Bắt đầu quá trình thay đổi nội dung và hiển thị panel
+                StartCoroutine(ChangeLetterContentAndShowFirstPanel(2));
             }
             else
             {
                 interactionText.gameObject.SetActive(true);
-                isReadingLetter = false; 
+                isReadingLetter = false;
                 StopAllCoroutines();
                 letterText.gameObject.SetActive(true);
-                newLetterContent.gameObject.SetActive(false); 
+                newLetterContent.gameObject.SetActive(false);
+                firstPanel.SetActive(false);
                 secondPanel.SetActive(false);
-                audioSource1.Stop(); 
-                audioSource2.Stop(); 
+                audioSource1.Stop();
+                audioSource2.Stop();
             }
         }
     }
